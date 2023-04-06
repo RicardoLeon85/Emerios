@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\EmeriosTest\EmeriosTest\obj\Debug\EmeriosTest.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EmeriosTest\EmeriosTest\obj\Debug\EmeriosTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\EmeriosTest\EmeriosTest\obj\Debug\EmeriosTest.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EmeriosTest\EmeriosTest\bin\Debug\EmeriosTest.exe.config
+C:\Users\Usuario\source\repos\EmeriosTest\EmeriosTest\bin\Debug\EmeriosTest.exe
+C:\Users\Usuario\source\repos\EmeriosTest\EmeriosTest\bin\Debug\EmeriosTest.pdb
+C:\Users\Usuario\source\repos\EmeriosTest\EmeriosTest\obj\Debug\EmeriosTest.exe
+C:\Users\Usuario\source\repos\EmeriosTest\EmeriosTest\obj\Debug\EmeriosTest.pdb
+C:\Users\Usuario\source\repos\EmeriosTest\EmeriosTest\bin\Debug\Inputs\file.txt
+C:\Users\Usuario\source\repos\EmeriosTest\EmeriosTest\bin\Debug\Inputs\fileBis.txt

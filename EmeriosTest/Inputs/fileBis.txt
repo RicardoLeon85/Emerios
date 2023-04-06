@@ -1,0 +1,7 @@
+B,B,D,A,D,E,D
+B,X,C,D,D,D,K
+H,Y,I,3,D,D,3
+R,7,O,D,G,D,2
+W,N,D,P,E,0,D
+a,D,c,d,d,e,f
+D,x,d,d,d,j,k
